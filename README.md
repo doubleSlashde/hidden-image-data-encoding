@@ -1,6 +1,6 @@
 # Hidden Image Data Encoding
 
-Code des Prototypen zum **Blogbeitrag**. (noch nicht veröffentlicht / link wird eingefügt)
+Code des Prototypen zum **Blogbeitrag**. https://blog.doubleslash.de/steganographie-als-sichere-alternative-zu-metadaten/
 
 Umfasst die Encoding - API und eine rudimentäre Benutzeroberfläche. Mit diesem Programm lassen sich PNG - Grafiken, wie im Blogbeitrag beschieben, mit benutzerdefinierten Metadaten und einer Signatur versehen, welche mithilfe des TBS - Verfahrens in die Farbinformation des Bildes kodiert werden. 
 
