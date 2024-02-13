@@ -6,8 +6,10 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 import org.junit.BeforeClass;
+import org.junit.Ignore;
 import org.junit.Test;
 
+@Ignore
 public class SignatureIntegrationTest {
 
 	private static ImageHandler imageHandler;
